@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OP-oJkx-rE6mWHlNMKSUmg" Reference="aJDSA2oBsUeDhcGbSLFyIA/s8UVxBsR90CZ6I3Fld3JNg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="a52cd75f-0c37-48b0-ab5d-55d857634473" CvElementArea="342, 657, 277, 45" CvType="InputBox" DesignTimeRectangle="344, 658, 275, 42" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='2024' aria-role='button' tag='BUTTON' type='button' class='btn dropdown-toggle bs-placeholder btn-default' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0'/&gt;" Guid="308dada7-7fe8-469e-87c8-178e6cd4f065" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="a52cd75f-0c37-48b0-ab5d-55d857634473" CvTextArea="342, 630, 43, 16" CvTextArgument="Year:" CvType="Text" DesignTimeRectangle="344, 627, 43, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Year:' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Year:' /&gt;" Guid="a05a8f70-38c3-4914-b584-64ddafb0ca2a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a218a370fac757e6b37842e6efe56717.png" xmlns="">0dT_MH1KWVk22MQwVSKg2jg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

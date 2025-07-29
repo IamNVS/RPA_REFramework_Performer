@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YTTdZYynLUin1elmdnhDog" Reference="aJDSA2oBsUeDhcGbSLFyIA/aXsm40U45kui8PTrZq2PBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106794842" CVScreenId="8726b349-ee67-450c-bc4f-7f3c9ccc7a23" CvTextArea="439, 600, 75, 17" CvType="Text" DesignTimeRectangle="439, 599, 75, 17" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="c9a7c1ec-6d24-4dbc-afac-b3b3cb16e3be" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="8726b349-ee67-450c-bc4f-7f3c9ccc7a23" CvTextArea="381, 601, 53, 15" CvTextArgument="TaxID:" CvType="Text" DesignTimeRectangle="383, 599, 52, 20" FuzzySelectorArgument="&lt;webctrl tag='B' type='' class='' aaname='TaxID:' check:innerText='TaxID:' /&gt;" Guid="9103bea8-ad7a-4ba6-bea1-af99d4fd05e5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="895f7937728457ec937e590b6dfc9952.png" xmlns="">027Q4cpMQuEex3tCrxf6uww</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

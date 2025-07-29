@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="c41X2Gb530eSpjTbwflD7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="dc39a809-0f42-49f0-bc0a-67cc25307605" CvElementArea="332, 782, 171, 46" CvTextArea="349, 796, 138, 21" CvTextArgument="Download Report" CvType="Button" DesignTimeRectangle="334, 784, 168, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='buttonDownload' tag='BUTTON' type='button' class='btn btn-primary' aaname='Download Report' check:innerText='Download Report' /&gt;" Guid="0d8627be-91b4-40eb-b3b1-45dd9bba4edc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dc39a809-0f42-49f0-bc0a-67cc25307605" CvTextArea="247, 301, 716, 46" CvTextArgument="Reports - Download Monthly Report" CvType="Text" DesignTimeRectangle="247, 295, 1425, 61" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                                                                                                                                                     Reports - Download Monthly Report                                                         ' check:innerText='Reports - Download Monthly Report' /&gt;" Guid="9e0ef59c-1dd8-4119-9942-a2a69a301712" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1ac1cd09b36f33cfa4f2eb69a16be768.png" xmlns="">0hBZNWdW-LkmeP4u1JvHsBQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

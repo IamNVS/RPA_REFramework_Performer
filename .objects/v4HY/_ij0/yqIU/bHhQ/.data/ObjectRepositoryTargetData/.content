@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RDtZmX9K-0We_u4ezw0eoQ" Reference="aJDSA2oBsUeDhcGbSLFyIA/bHhQQRGlbkGoei-ZVn-6IA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="b72fadae-f929-464c-ab5f-1c7b8b7040f7" CvElementArea="333, 722, 279, 45" CvType="InputBox" DesignTimeRectangle="334, 723, 275, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='2024' aria-role='button' tag='BUTTON' type='button' class='btn dropdown-toggle bs-placeholder btn-default' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0'/&gt;" Guid="61c29d38-7a6d-43e1-90fc-0240507ede63" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="b72fadae-f929-464c-ab5f-1c7b8b7040f7" CvTextArea="332, 695, 45, 16" CvTextArgument="Year:" CvType="Text" DesignTimeRectangle="334, 692, 43, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Year:' tag='LABEL' type='' class='' check:innerText='Year:' /&gt;" Guid="2c28bbb1-ad5c-411f-95f8-b0f8c5155827" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3de51e556d02db7d34a62470862fd0b3.png" xmlns="">0xKech7Uur0a82SSsPy5x_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

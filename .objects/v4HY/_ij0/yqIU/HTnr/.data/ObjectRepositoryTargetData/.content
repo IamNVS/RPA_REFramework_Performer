@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cC2d0N2Y7EC9oPrd7hyt8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="20835897-526f-4615-8580-5dba32d0176b" CvTextArea="710, 144, 244, 23" CvTextArgument="acme-test.uipath.com says" CvType="Text" DesignTimeRectangle="710, 144, 244, 23" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="a398a221-ede3-49ef-98fb-73eed2dfb774" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Upload Yearly Report - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2d57bf7b6961a4ae4c3ddba9e1233963.png" xmlns="">0htq75DY1wkeFJ6s65Ok92A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

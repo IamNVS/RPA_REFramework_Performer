@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_Msjti99z0qDT5GU9QZugA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="1dbbe889-3811-4715-8dcd-281ccc299256" CvElementArea="342, 758, 147, 43" CvTextArea="357, 771, 118, 21" CvTextArgument="Upload Report" CvType="Button" DesignTimeRectangle="344, 759, 145, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='buttonUpload' tag='BUTTON' type='button' class='btn btn-primary' aaname='Upload Report' check:innerText='Upload Report' /&gt;" Guid="2284399b-5c5b-468a-939d-54c011e6d06e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Upload Yearly Report' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1dbbe889-3811-4715-8dcd-281ccc299256" CvTextArea="256, 301, 625, 46" CvTextArgument="Reports - Upload Yearly Report" CvType="Text" DesignTimeRectangle="257, 295, 1425, 61" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                                                                                                                                                     Reports - Upload Yearly Report                                                         ' check:innerText='Reports - Upload Yearly Report' /&gt;" Guid="96532e7b-e5f3-4799-8e09-486be072bded" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="35281a36e325fcfa66d8852b6b930573.png" xmlns="">0PcO-0IEFYUqHl5xZUTJ9Uw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

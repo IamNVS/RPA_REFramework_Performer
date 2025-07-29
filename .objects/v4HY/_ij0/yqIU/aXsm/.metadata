@@ -1,0 +1,14 @@
+﻿{
+  "Name": "TaxID",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "aXsm40U45kui8PTrZq2PBg",
+  "Reference": "aJDSA2oBsUeDhcGbSLFyIA/aXsm40U45kui8PTrZq2PBg",
+  "ParentRef": "aJDSA2oBsUeDhcGbSLFyIA/yqIUE88cv0Cz0TWSUYnhtw",
+  "Created": "2025-07-17T10:29:45.0835095Z",
+  "Updated": "2025-07-17T10:29:45.0835095Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

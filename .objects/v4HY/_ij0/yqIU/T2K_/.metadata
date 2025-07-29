@@ -1,0 +1,14 @@
+﻿{
+  "Name": "OK",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "T2K_sVMqC0iu91MIsk_EZw",
+  "Reference": "aJDSA2oBsUeDhcGbSLFyIA/T2K_sVMqC0iu91MIsk_EZw",
+  "ParentRef": "aJDSA2oBsUeDhcGbSLFyIA/yqIUE88cv0Cz0TWSUYnhtw",
+  "Created": "2025-07-17T10:36:43.9351653Z",
+  "Updated": "2025-07-17T10:36:43.9351653Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

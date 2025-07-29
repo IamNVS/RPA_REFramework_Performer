@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Download Report",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "42zGGL4Gl0q7DfV0HSBqUQ",
+  "Reference": "aJDSA2oBsUeDhcGbSLFyIA/42zGGL4Gl0q7DfV0HSBqUQ",
+  "ParentRef": "aJDSA2oBsUeDhcGbSLFyIA/yqIUE88cv0Cz0TWSUYnhtw",
+  "Created": "2025-07-17T10:34:39.7310202Z",
+  "Updated": "2025-07-17T10:34:39.7310202Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

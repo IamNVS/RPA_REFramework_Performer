@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/hclkylczvv/testsuitetrainingtenant/testmanager_/",
+  "defaultProject": {
+    "id": "0a468bfc-0e61-0000-4380-0b48789f6c15",
+    "name": "Final_Project_Acme",
+    "key": "FPA"
+  }
+}

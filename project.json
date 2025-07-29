@@ -1,0 +1,153 @@
+{
+  "name": "RoboticEnterpriseFramework_Performer_Final_Project",
+  "projectId": "1c7e2095-7e21-49d4-bfaa-3389b4a8ba2c",
+  "description": "Robotic Enterprise Framework For Final ACME PRoject Performer with Test Case",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.24.4]",
+    "UiPath.Mail.Activities": "[2.2.10]",
+    "UiPath.System.Activities": "[24.10.7]",
+    "UiPath.Testing.Activities": "[24.10.4]",
+    "UiPath.UIAutomation.Activities": "[25.10.10]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "24.10.12.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5e35db37-d911-42e6-b42c-8a4ba3940a31",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\GetTransactionDataTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bd6edd32-4dc2-4dd7-bdbe-5fa1da8e3980",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\InitAllApplicationsTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "ef65ce57-2770-4835-b3f0-78c338b1e6af",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\InitAllSettingsTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "536878cf-f625-40d6-85e6-2ffbd6a61cd3",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\MainTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "fbf671ea-4c06-4467-bd3c-679a09f1f0a3",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\ProcessTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5b42158b-8e02-4192-b249-49a0f63f4315",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "1b4f9d1b-747c-4895-91ab-179ce0f5e028",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Framework\\Test\\TC001_Acem_Login.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "9d89ec3c-8562-47c3-9352-dc5139613b10",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Framework\\Test\\TC002_Acem_Dashboard.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "9b5ea91e-272e-4957-958b-03ed6a7a1c7b",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Framework\\Test\\TC003_Acme_Download.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "940d8ddb-b21e-42d7-9137-b6d3dcbbb4e0",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Framework\\Test\\TC004_Acme_Upload.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0ebc19cf-168b-46c8-9a52-1d9820342816",
+        "testCaseType": "TestCase",
+        "fileName": "Framework\\Test\\TC005_Acme_Update.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "56bf5b47-c88a-4c6c-be6f-34475dbb2baa",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Framework\\Test\\TC003_Acme_Download(OK).xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "292e87e3-c393-41bb-96ba-dc7e1316c0b6",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Framework\\Test\\TC005_Acme_Update(OK).xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "e099f3bd-b591-441f-a390-ed84fe956fb2",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
